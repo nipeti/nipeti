@@ -8,6 +8,7 @@ Here are the topics I like to work on:
 exploratory data analysis, data collection/processing/cleaning, statistical analysis and testing, modeling, segmentation, detection, scoring, prediction, optimization, machine learning: supervised/unsupervised, Dataviz/Dashboarding/Reporting, KPI definition.  
 
 > Data Project Management : Framing, project management, definition of use cases/stories with the business, design of adapted solutions for the integration and implementation phases, Restitution and presentation of results, advice, recommendations and teamwork :)  
+
 ✓ Define solution to improve business activity and operational performance, and facilitate the adoption of new usages linked to data.  
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
