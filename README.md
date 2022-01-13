@@ -8,7 +8,7 @@ Here are the topics I like to work on:
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
 #### I am alson on
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)
+![alt text](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png)
 
 <!---
 --->
