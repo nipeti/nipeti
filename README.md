@@ -8,7 +8,7 @@ Here are the topics I like to work on:
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
  ### I am also on:
- ![Linkedin(https://www.linkedin.com/in/nicolasperpetuite/)
+ !https://www.linkedin.com/in/nicolasperpetuite/
 
 
 <!---
