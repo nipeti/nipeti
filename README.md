@@ -7,7 +7,7 @@ I offer a range of services:
 ✓ Define solution to improve business activity and operational performance, and facilitate the adoption of new usages linked to data.  
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
-Have a look at my Malt profile: https://www.malt.fr/profile/nicolasperpetuite
+Have a look at my Malt profile to get in touch: https://www.malt.fr/profile/nicolasperpetuite
 
 
 <!---
