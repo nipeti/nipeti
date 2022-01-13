@@ -7,8 +7,8 @@ Here are the topics I like to work on:
 ✓ Define solution to improve business activity and operational performance, and facilitate the adoption of new usages linked to data  
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
-#### I am alson on
-![alt text](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png)
+#### I am also on
+![alt text](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
 
 <!---
 --->
