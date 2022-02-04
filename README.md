@@ -7,6 +7,8 @@ Here are the topics I like to work on:
 ✓ Define solution to improve business activity and operational performance, and facilitate the adoption of new usages linked to data  
 ✓ Support leaders in decision-making facing the challenges of the company's digital transformation   
 
+You will find here some of the topics I have worked on (modelling, segmentation, clustering, time-series, fraud detection, prediction, etc)
+
 
 <!---
 --->
